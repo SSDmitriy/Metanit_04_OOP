@@ -1,5 +1,5 @@
 ﻿//inheritance https://metanit.com/sharp/tutorial/3.7.php
-
+/*
 namespace Metanit_04_OOP
 {
     internal class Chapter01_inheritance
@@ -24,7 +24,7 @@ namespace Metanit_04_OOP
 
 
     
-    /*
+    
     class Person
     {
         private string _name = "Dan";
@@ -64,7 +64,7 @@ namespace Metanit_04_OOP
 
     }
 
-    */
+    
 
     //can't inheritate from this SEALED class
     sealed class Admin
@@ -106,23 +106,6 @@ namespace Metanit_04_OOP
         }
 
     }
-
-}
-
-//
-/*
-namespace Metanit_04_OOP
-{
-    internal class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello, World!");
-
-
-        }
-    }
-
 
 }
 

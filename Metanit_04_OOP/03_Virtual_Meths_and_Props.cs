@@ -6,7 +6,7 @@ namespace _03
 {
     class _03_Virtual_Meths_and_Props
     {
-        //*
+        /*
         static void Main(string[] args)
         {
             Console.WriteLine("Hello 03");
@@ -32,10 +32,12 @@ namespace _03
 
         }
 
-        //*/
+        */
 
     }
 
+
+    /*
     class Person
     {
 
@@ -113,4 +115,7 @@ namespace _03
 
     }
 
+    */
+
 }
+
