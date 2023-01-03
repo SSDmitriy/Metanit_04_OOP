@@ -14,6 +14,7 @@
 
 internal class Chapter02_conversion_types
 {
+    /*
     static void Main(string[] args)
     {
         Console.WriteLine("Hello, World2!");
@@ -65,6 +66,8 @@ internal class Chapter02_conversion_types
             Console.WriteLine("person9 is NOT type of Employee");
         }
     }
+
+    */
 }
 
 
