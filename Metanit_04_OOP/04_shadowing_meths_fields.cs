@@ -1,6 +1,7 @@
 ﻿// shadowing/hiding methods, fields, consts with "new"
 //https://metanit.com/sharp/tutorial/3.41.php
 
+/*
 namespace Metanit_04_OOP
 {
     class _04_shadowing_meths_fields
@@ -92,3 +93,4 @@ namespace Metanit_04_OOP
     }
 
 }
+*/
