@@ -1,5 +1,5 @@
 ﻿// abstract classes https://metanit.com/sharp/tutorial/3.8.php
-
+/*
 using Metanit_04_OOP;
 
 namespace Metanit_04_OOP
@@ -144,3 +144,4 @@ namespace Metanit_04_OOP
 
 }
 
+*/
