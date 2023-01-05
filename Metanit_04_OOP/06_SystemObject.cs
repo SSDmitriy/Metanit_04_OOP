@@ -1,7 +1,7 @@
 ﻿
 // System.Object https://metanit.com/sharp/tutorial/3.10.php
 // methods ToString() GetHashCode() GetType() Equals()
-
+/*
 namespace Metanit_04_OOP
 {
     class _06_SystemObject
@@ -112,3 +112,5 @@ namespace Metanit_04_OOP
 
 
 }
+
+*/
