@@ -1,6 +1,8 @@
 ﻿// WOW! GENERICS! https://metanit.com/sharp/tutorial/3.12.php
 
 
+/*
+
 namespace Metanit_04_OOP
 {
     class _07_Generics
@@ -147,3 +149,6 @@ namespace Metanit_04_OOP
 
     }
 }
+
+
+*/
