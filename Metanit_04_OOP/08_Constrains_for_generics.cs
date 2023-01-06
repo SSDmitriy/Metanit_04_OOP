@@ -1,5 +1,5 @@
 ﻿// Constrains for generic https://metanit.com/sharp/tutorial/3.38.php
-
+/*
 namespace Metanit_04_OOP
 {
     internal class _08_Constrains_for_generics
@@ -119,3 +119,6 @@ namespace Metanit_04_OOP
 
 
 }
+
+
+*/
